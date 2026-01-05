@@ -1,4 +1,4 @@
-#Compile
+# Compile
 
 make
 sudo make install
@@ -7,7 +7,7 @@ or
 
 make lost
 
-#Dependencies
+# Dependencies
 
 nasm
     sudo apt install nasm
@@ -32,4 +32,4 @@ openwatcom
  \____|_| |_/_/   \_\_| \_\/_/   \_\ |_|  |___|____/|_| \_\___|_____/_/   \_\
 
 
-#Fixed by gnkyui
+# Fixed by gnkyui 
