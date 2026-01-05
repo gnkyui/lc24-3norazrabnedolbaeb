@@ -26,11 +26,14 @@ sdl3
     sudo pacman -S sdl3
 openwatcom
 
-    get open watcom 
+ 
+   get open watcom 
 
-[here](https://open-watcom.github.io/open-watcom-v2-wikidocs/c_readme.html#Installation)
+[here](https://github.com/open-watcom/open-watcom-v2)
 
-    and follow [this steps] (https://open-watcom.github.io/open-watcom-v2-wikidocs/c
+    and follow 
+
+[this steps] (https://open-watcom.github.io/open-watcom-v2-wikidocs/c
 _readme.html#Installation)
     
     or via yay
