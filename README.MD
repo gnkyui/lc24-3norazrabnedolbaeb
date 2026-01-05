@@ -28,7 +28,7 @@ openwatcom
 
 get open watcom [here](https://github.com/open-watcom/open-watcom-v2)
 
-and follow [this steps] (https://open-watcom.github.io/open-watcom-v2-wikidocs/c
+and follow [this steps](https://open-watcom.github.io/open-watcom-v2-wikidocs/c
 _readme.html#Installation)
     
 or via yay
