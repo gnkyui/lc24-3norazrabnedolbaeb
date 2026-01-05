@@ -10,19 +10,28 @@ make lost
 # Dependencies
 
 nasm
+
     sudo apt install nasm
+
     sudo pacman -S nasm
 gcc
+
     sudo apt install gcc
+
     sudo pacman -S gcc
 sdl3
+
     sudo apt install sdl3
+
     sudo pacman -S sdl3
 openwatcom
+
     get open watcom [here](https://open-watcom.github.io/open-watcom-v2-wikidocs/c_readme.html#Installation)
+
     and follow this steps https://open-watcom.github.io/open-watcom-v2-wikidocs/c_readme.html#Installation
     
     or via yay
+
         yay -S openwatcom-v2
 
 
