@@ -32,7 +32,7 @@ and follow [this steps](https://open-watcom.github.io/open-watcom-v2-wikidocs/c_
     
 or via yay
 
-        yay -S openwatcom-v2
+    yay -S openwatcom-v2
 
 
  / ___| | | |  / \  |  _ \    / \    |  _ \_ _|  _ \|  _ \|_ _| |      / \   
