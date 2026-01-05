@@ -1,22 +1,35 @@
-# lc24-3
-## added more bugs
+#Compile
 
-## эээ ну короче теперь есть govnfs1.3, 2, 3 в utils/ оно само компилится через мейк
-## лост86 для запуска и компила make lost86 над
-## лостефи пока что не работает у него выходной
+make
+sudo make install
 
-## компил:
-## make
-## sudo make install
+or
 
-## запуск всего сразу:
-## make lost
+make lost
 
-## он делает make ; sudo make install ; make lost86
-## lost10 развился пздц там теперь картинки мышь и показание фпс
-## в скрипте ран сх в лусл показ фпс по умолчанию там лост10 над оптимизировать
-## в компилерах там есть мини компилер си синтаксиса через сед на си в лусл
-## lrs так же, rcc2/rcc2ge я сделал там чутка
-## compilers/hid.s это тест мышки
+#Dependencies
 
-## эээ ну ждите боксланг да i farted
+nasm
+    sudo apt install nasm
+    sudo pacman -S nasm
+gcc
+    sudo apt install gcc
+    sudo pacman -S gcc
+sdl3
+    sudo apt install sdl3
+    sudo pacman -S sdl3
+openwatcom
+    get open watcom [here](https://open-watcom.github.io/open-watcom-v2-wikidocs/c_readme.html#Installation)
+    and follow this steps https://open-watcom.github.io/open-watcom-v2-wikidocs/c_readme.html#Installation
+    
+    or via yay
+        yay -S openwatcom-v2
+
+
+ / ___| | | |  / \  |  _ \    / \    |  _ \_ _|  _ \|  _ \|_ _| |      / \   
+| |   | |_| | / _ \ | |_) |  / _ \   | |_) | || | | | |_) || || |     / _ \  
+| |___|  _  |/ ___ \|  _ <  / ___ \  |  __/| || |_| |  _ < | || |___ / ___ \ 
+ \____|_| |_/_/   \_\_| \_\/_/   \_\ |_|  |___|____/|_| \_\___|_____/_/   \_\
+
+
+#Fixed by gnkyui

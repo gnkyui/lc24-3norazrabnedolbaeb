@@ -1,0 +1,14 @@
+#Compile
+
+make
+sudo make install
+
+or
+
+make lost
+
+#Dependencies
+
+sudo yay -S  openwatcom-v2 && sudo pacman -S gcc sdl3 nasm
+
+#Fixed by gnkyui
