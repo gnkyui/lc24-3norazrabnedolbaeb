@@ -1,6 +1,7 @@
 # Compile
 
 make
+
 sudo make install
 
 or
