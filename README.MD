@@ -37,4 +37,4 @@ or via yay
 
 ᶜʰᵃʳᵏᵒ ᵖᶦᵈʳᶦˡᵃ
 
-# Fixed by gnkyui 
+# Fixed by gnkyui and SirAsus 
