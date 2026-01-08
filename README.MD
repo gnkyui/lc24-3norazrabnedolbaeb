@@ -6,7 +6,7 @@ sudo make install
 
 or
 
-make lost
+make lost 
 
 # Dependencies
 
